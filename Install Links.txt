@@ -1,0 +1,23 @@
+Interface, Spyder via Anaconda
+https://www.anaconda.com/
+
+Drivers used for RS232/USB:
+https://tripplite.eaton.com/support/USA19HS
+https://tripplite.eaton.com/usb-serial-adapter-cable-usb-a-db9-male-male-5-ft~U209000R
+
+Libraries:
+
+import time
+conda install conda-forge::time
+
+import serial (it's called pyserial but imported as serial)
+conda install anaconda::pyserial
+
+import pyvisa 
+conda install anaconda::pyserial
+
+import numpy
+conda install numpy
+
+import pandas
+pip install pandas
