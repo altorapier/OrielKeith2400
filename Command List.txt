@@ -1,0 +1,20 @@
+Set wavlength:
+GOWAVE XXX.XX 
+
+Query Wavelength:
+WAVE?
+
+Calibrate mono by specifying current position is wavelength X: 
+CALIBRATE XX.XXX
+
+Close shutter:
+SHUTTER C
+
+Open shutter:
+SHUTTER O
+
+Query shutter:
+SHUTTER?
+
+maybe go to home?
+FINDHOME
