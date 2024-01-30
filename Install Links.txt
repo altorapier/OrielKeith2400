@@ -5,6 +5,9 @@ Drivers used for RS232/USB:
 https://tripplite.eaton.com/support/USA19HS
 https://tripplite.eaton.com/usb-serial-adapter-cable-usb-a-db9-male-male-5-ft~U209000R
 
+NI MAX for troubleshooting and serial interfacing if needed:
+https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YGQwCAO&l=en-GB
+
 Libraries:
 
 import time
